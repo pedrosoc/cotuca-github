@@ -1,2 +1,1 @@
-oi pastel e pessoal
-teste
+console.Writeln("Olá galerinha do maaallll");
