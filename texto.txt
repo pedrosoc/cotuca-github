@@ -1,2 +1,1 @@
-oi pastel e pessoal
-teste
+System.out.println("Hello World");
